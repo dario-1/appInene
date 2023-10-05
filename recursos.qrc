@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>interfaz.ui</file>
+    <file>icons/align-center.svg</file>
+    <file>icons/codesandbox.svg</file>
+    <file>imagenes/icono.ico</file>
+    <file>imagenes/inen.ico</file>
+    <file>imagenes/logo.ico</file>
+    <file>icons/corner-left-up.svg</file>
+    <file>icons/cpu.svg</file>
+    <file>icons/filter.svg</file>
+    <file>icons/maximize-2.svg</file>
+    <file>icons/minimize-2.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons/save.svg</file>
+    <file>icons/upload.svg</file>
+    <file>icons/x.svg</file>
+  </qresource>
+</RCC>
